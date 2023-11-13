@@ -97,6 +97,8 @@ int main(void)
 	  HAL_Delay(500);
 	  HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_RESET);
 	  HAL_Delay(500);
+
+	  // ja sam dodao komentar ovde
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
